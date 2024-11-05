@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IMP34DT05")(type "KiCad")(uri "${KIPRJMOD}/library/IMP34DT05/footprints.pretty")(options "")(descr ""))
+  (lib (name "10067099-200LF")(type "KiCad")(uri "${KIPRJMOD}/library/10067099-200LF/10067099-200LF.pretty")(options "")(descr ""))
+  (lib (name "CF35242D0RD-NH")(type "KiCad")(uri "${KIPRJMOD}/library/CF35242D0RD_NH/CF35242D0RD-NH.pretty")(options "")(descr ""))
+  (lib (name "EVP_AWED4A")(type "KiCad")(uri "${KIPRJMOD}/library/EVP_AWED4A")(options "")(descr ""))
+  (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/library/logos.pretty")(options "")(descr ""))
+)
