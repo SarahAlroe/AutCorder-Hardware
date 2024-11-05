@@ -3353,7 +3353,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "329370a6-b2d1-4c27-bc3c-d42f5205f345")
 			(effects
@@ -3508,7 +3508,7 @@
 			(uuid "c05fd529-0ef8-4a49-a585-4c287e775241")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "62ee52d2-1e23-4314-885f-da1e1f212547")
 			(effects
@@ -16325,7 +16325,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "2d619889-c527-4fa5-a57b-1cac54a769ba")
 			(effects
@@ -16504,7 +16504,7 @@
 			(uuid "239eb110-d10b-4220-88c9-178d806e5679")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "a0870eb6-4ca7-452b-948d-bad6df3967f8")
 			(effects
