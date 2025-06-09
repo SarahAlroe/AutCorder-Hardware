@@ -5,4 +5,5 @@
   (lib (name "CF35242D0RD-NH")(type "KiCad")(uri "${KIPRJMOD}/library/CF35242D0RD_NH/CF35242D0RD-NH.pretty")(options "")(descr ""))
   (lib (name "EVP_AWED4A")(type "KiCad")(uri "${KIPRJMOD}/library/EVP_AWED4A")(options "")(descr ""))
   (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/library/logos.pretty")(options "")(descr ""))
+  (lib (name "FFC2B35-24-G")(type "KiCad")(uri "${KIPRJMOD}/library/FFC2B35-24-G/footprints.pretty")(options "")(descr ""))
 )

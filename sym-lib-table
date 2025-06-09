@@ -4,4 +4,5 @@
   (lib (name "10067099-200LF")(type "KiCad")(uri "${KIPRJMOD}/library/10067099-200LF/10067099-200LF.kicad_sym")(options "")(descr ""))
   (lib (name "CF35242D0RD-NH")(type "KiCad")(uri "${KIPRJMOD}/library/CF35242D0RD_NH/CF35242D0RD-NH.kicad_sym")(options "")(descr ""))
   (lib (name "EVP-AWED4A")(type "KiCad")(uri "${KIPRJMOD}/library/EVP_AWED4A/EVP-AWED4A.kicad_sym")(options "")(descr ""))
+  (lib (name "FFC2B35-24-G")(type "KiCad")(uri "${KIPRJMOD}/library/FFC2B35-24-G/FFC2B35-24-G.kicad_sym")(options "")(descr ""))
 )
